@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repository for Coursera project wrk
+Repository for Coursera project work
